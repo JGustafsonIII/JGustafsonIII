@@ -1,5 +1,13 @@
-### Hi there 👋
+### John Gustafson 👋
+**`Full Software Developer and DevOps Developer`**
+I'm a DevOp's Developer and (former) Full-Stack Developer interested in crafting websites and creating CI/CD pipelines. 
 
+### Languages and Tools
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+
+### Latest Projects
+
+### Stats
 <!--
 **JGustafsonIII/JGustafsonIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
