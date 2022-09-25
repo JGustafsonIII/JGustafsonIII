@@ -1,10 +1,17 @@
 # John Gustafson
-
+Pronouns: He/Him
 **`DevOps Developer `**
 
-I'm a DevOp's Developer and (former) Full-Stack Developer interested in crafting websites and creating CI/CD pipelines. 
+I'm a DevOp's Developer and (former) Full-Stack Developer interested in crafting websites and creating CI/CD pipelines. I graduated from Marist in 2022 with a Bachelors of Computer Science concentrated in Software Development. During my last year I dove head first in Full-Stack Development. I joined TRMI doing Full-Stack Development, I picked up Angular, TypeScript, C#, and SQL. I left for IBM to be a Lab Administrator. Here I began diving into technologies such as Docker, Podman, Kubernetes, Ansible, Terraform, etc. The purpose was to fix configuration drift and create immutable infrastructure. Currently, I still work at IBM and have a passion for both DevOps and Full-Stack Development. 
+
+### Currently Learning 🌱
+
+- [Building MicroServices 2nd Edition](https://samnewman.io/books/building_microservices_2nd_edition/)
+- [Learning Go](https://www.amazon.com/Learning-Go-Idiomatic-Real-World-Programming/dp/1492077216)
+- Learning Microsoft Azure (Raw Unedited Edition)
 
 ---
+
 ### Languages and Tools
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -31,8 +38,6 @@ I'm a DevOp's Developer and (former) Full-Stack Developer interested in crafting
 
 #
 
-### Latest Projects
-
 ### Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JGustafsonIII&theme=horizon)](https://git.io/streak-stats)
 <!--
@@ -41,7 +46,7 @@ I'm a DevOp's Developer and (former) Full-Stack Developer interested in crafting
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
