@@ -2,14 +2,7 @@
 
 **`DevOps Developer `**
 
-I'm a DevOps Developer and (former) Full-Stack Developer interested in crafting websites and creating CI/CD pipelines. I graduated from Marist in 2022 with a Bachelors of Computer Science concentrated in Software Development. During my last year I dove head first in Full-Stack Development. I joined TRMI doing Full-Stack Development, I picked up Angular, TypeScript, C#, and SQL. I left for IBM to be a Lab Administrator. Here I began diving into technologies such as Docker, Podman, Kubernetes, Ansible, Terraform, etc. The purpose was to fix configuration drift and create immutable infrastructure. Currently, I still work at IBM and have a passion for both DevOps and Full-Stack Development. 
-
-### Currently Learning 🌱
-
-- [Building MicroServices 2nd Edition](https://samnewman.io/books/building_microservices_2nd_edition/)
-- [Learning Go](https://www.amazon.com/Learning-Go-Idiomatic-Real-World-Programming/dp/1492077216)
-- Learning Microsoft Azure (Raw Unedited Edition)
-
+I'm a DevOps Developer and (former) Full-Stack Developer interested in crafting websites and creating CI/CD pipelines. I graduated from Marist in 2022 with a Bachelors of Computer Science concentrated in Software Development. During my last year I dove head first in Full-Stack Development. I joined TRMI doing Full-Stack Development, I picked up Angular, TypeScript, C#, and SQL. I left for IBM to be a Lab Administrator. Here I began diving into technologies such as Docker, Podman, Kubernetes, Ansible, Terraform, etc. The purpose was to fix configuration drift and create immutable infrastructure. Currently, I still work at IBM and have a passion for both DevOps and Full-Stack Development.
 ---
 
 ### Languages and Tools
