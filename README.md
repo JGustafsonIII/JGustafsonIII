@@ -1,6 +1,6 @@
 # John Gustafson
 
-**`DevOps Developer `**
+**`DevOp's Developer `**
 
 I'm a DevOps Developer and (former) Full-Stack Developer interested in crafting websites and creating CI/CD pipelines. I graduated from Marist in 2022 with a Bachelors of Computer Science concentrated in Software Development. During my last year I dove head first in Full-Stack Development. I joined TRMI doing Full-Stack Development, I picked up Angular, TypeScript, C#, and SQL. I left for IBM to be a Lab Administrator. Here I began diving into technologies such as Docker, Podman, Kubernetes, Ansible, Terraform, etc. The purpose was to fix configuration drift and create immutable infrastructure. Currently, I still work at IBM and have a passion for both DevOps and Full-Stack Development.
 ---
