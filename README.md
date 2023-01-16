@@ -4,7 +4,7 @@
 
 I'm a DevOps Developer and (former) Full-Stack Developer interested in crafting websites and creating CI/CD pipelines. I graduated from Marist in 2022 with a Bachelors of Computer Science concentrated in Software Development. During my last year I dove head first in Full-Stack Development. I joined TRMI doing Full-Stack Development, I picked up Angular, TypeScript, C#, and SQL. I left for IBM to be a Lab Administrator. Here I began diving into technologies such as Docker, Podman, Kubernetes, Ansible, Terraform, etc. The purpose was to fix configuration drift and create immutable infrastructure. Currently, I still work at IBM and have a passion for both DevOps and Full-Stack Development.
 ---
-
+---
 ### Languages and Tools
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
